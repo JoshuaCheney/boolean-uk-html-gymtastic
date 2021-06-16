@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+.box {
+    margin-left: 30px;
+    color: white;
+}
+
+.box, .main-nav {
+    display: inline-block;  
+}
+
+.menu {
+    background-color: steelblue;
+}
+
+.nav li {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 20px;
+    padding: 0px;
+    color: white;
+}
+
+.get-membership {
+    border-radius: 15px;
+    border: 2px solid peru;
+    padding: 10px;
+    color: peru;
+    background-color: white;
+}
+
+.insta {
+ background-color: violet;
+ color:  white;
+ border-radius: 15px;
+ border: 0.5px solid grey;
+ padding: 10px;
+}
+
+.face {
+ background-color: rgb(30, 133, 218);
+ color: white;
+ border-radius: 15px;
+ border: 0.5px solid grey;
+ padding: 10px;
+}
+
+.yout {
+ background-color: red;
+ color: white;
+ border-radius: 15px;
+ border: 0.5px solid grey;
+ padding: 10px;
+}
+
+.list-item {
+    list-style: none;
+}
+
+.links {
+    padding-top: 1px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    background-color: steelblue;
+    color: white;
+    margin: 0px;
+}
+
+footer {
+    padding: 10px;
+    margin-top: 20px;
+}
+
+main {
+    margin-left: 40px;
+}
+
+.blue-text {
+    color: steelblue;
+}
